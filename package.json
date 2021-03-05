@@ -1,0 +1,14 @@
+{
+  "name": "masterboat",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "24kRoy",
+  "license": "ISC",
+  "dependencies": {
+    "dbd.js": "^2.1.1"
+  }
+}
